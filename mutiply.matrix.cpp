@@ -56,3 +56,14 @@ int main() {
 else { cout << "Multiplication is not possible. The number of columns of A must be equal to the number of rows of B." ;}
     return 0;
 }
+/* OUTPUT
+A matrix: 
+1 2
+4 5
+B matrix:
+7 8
+9 10
+Result matrix C:
+58 64
+139 154
+*/
